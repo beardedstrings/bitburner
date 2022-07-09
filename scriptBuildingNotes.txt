@@ -1,0 +1,3 @@
+Pondering how to make a C2C/CNC next. BotNet type control over all the hacked servers.
+
+First lets try to get the status of a remote server
