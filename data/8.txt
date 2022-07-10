@@ -1,1 +1,0 @@
-{"long":["ecorp","alpha-ent","stormtech","joesguns","lexo-corp","clarkinc","megacorp","netlink","syscore","titan-labs","vitalife","comptek","nova-med"],"short":[]}
